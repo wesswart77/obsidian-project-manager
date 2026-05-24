@@ -1,7 +1,7 @@
 {
-  "id": "project-manager",
+  "id": "projects-manager",
   "name": "Project Manager",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "minAppVersion": "1.4.0",
   "description": "Manage projects in plain markdown: track status, milestones, tasks, and progress with a kanban-style sidebar view.",
   "author": "wesswart77",
