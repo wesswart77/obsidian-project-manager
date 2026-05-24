@@ -1,9 +1,9 @@
 {
   "id": "project-manager",
   "name": "Project Manager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minAppVersion": "1.4.0",
-  "description": "Manage projects in Obsidian: track status, milestones, tasks, and progress with a kanban-style sidebar view.",
+  "description": "Manage projects in plain markdown: track status, milestones, tasks, and progress with a kanban-style sidebar view.",
   "author": "wesswart77",
   "authorUrl": "https://github.com/wesswart77",
   "fundingUrl": "https://www.buymeacoffee.com/wesswart77",
